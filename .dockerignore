@@ -1,0 +1,7 @@
+.git
+.idea
+.gitignore
+
+README.md
+
+docker/php/Dockerfile
